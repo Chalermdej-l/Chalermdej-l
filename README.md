@@ -1,7 +1,7 @@
  ## 📄 About Me :
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=600&size=22&duration=2000&pause=200&color=F7F7F7&background=000000&multiline=true&repeat=false&width=770&height=500&lines=%24+Hi%2C+My+name+is+Chalermdej+Lematavekul.;%24+Welcome+to+my+Github.;%24+Here+you+will+find+project+that+I+have+created.;%24+Currently%2C+I'm+working+toward+becoming+a+Data+Engineers.;+;%24+Please+have+a+look+around!;+;+;%24+Charlie(question%3D%22How+do+you+be+successful+in+life%3F%22);Processing...;Processing...;Processing...;%24+Answer+%3A+All+you+have+to+do+is+be+a+little+wiser+everyday.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=600&size=22&duration=2000&pause=200&color=F7F7F7&background=000000&multiline=true&repeat=false&width=770&height=380&lines=%24+Hi%2C+My+name+is+Chalermdej+Lematavekul.;%24+Welcome+to+my+Github.;%24+Here+you+will+find+project+that+I+have+created.;%24+Currently%2C+I'm+working+toward+becoming+a+Data+Engineers.;+;%24+Please+have+a+look+around!;+;+;%24+Charlie(question%3D%22How+do+you+be+successful+in+life%3F%22);Processing...;Processing...;Processing...;%24+Answer+%3A+All+you+have+to+do+is+be+a+little+wiser+everyday.)](https://git.io/typing-svg)
  
 ## 🌟 My Stats :
 ![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=chalermdej-l&show_icons=true&theme=vue&line_height=20&card_width=450) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chalermdej-l&langs_count=8&layout=compact&exclude_repo=Portfolio,Chalermdej-l,Data_Enginner_2023_W4&theme=vue&card_width=370)
