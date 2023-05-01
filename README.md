@@ -16,10 +16,11 @@
  
  ## 💻 Programs : 
  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/tools/docker.png"> <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/tools/visualstudio.png"> <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/tools/visualstudio_code.png">
+ 
 
 
  ## 🤝 Connect with Me : 
  <a href="https://www.linkedin.com/in/chalermdej-l/" target="blank"><img align="center" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/linkedin.png"  /></a>
 <a href="https://join.skype.com/invite/y0TtNWVN0t3U" target="blank"><img align="center" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/skype.png" /></a> 
 <a href="https://slack.com/app_redirect?channel=U04CPEJHN68/" target="blank"><img align="center" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /></a> 
-
+<a href="https://chalermdej-l.github.io/Portfolio/" target="blank"><img align="center" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/misc/web.png" /></a> 
