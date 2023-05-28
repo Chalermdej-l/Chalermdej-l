@@ -17,7 +17,21 @@
  ## 💻 Programs : 
  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/tools/docker.png"> <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/tools/visualstudio.png"> <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/tools/visualstudio_code.png">
  
+ 
+ ## 🎫 Certification :
+[Data Engineer Zoomcamp By DataTalks Club](https://drive.google.com/file/d/1mDXsp89leCp-S2dqtvtvfruZPggFlPn7/view?usp=sharing)
 
+[Data Analyst Accoicate By Microsoft](https://drive.google.com/file/d/17EXqy2GkYpFT-5ZcuxvRr01Lt2HX-c0F/view?usp=sharing)
+
+[Security, Compliance, and Identity Fundamentals By Microsoft](https://drive.google.com/file/d/157i3V-5jRZlvqzARS2YB7nflgt49oMoF/view?usp=sharing)
+
+[Azure Data Fundamentals By Microsoft](https://drive.google.com/file/d/1H-x1wL30D8pwUzrqaCu6X2SuEp8aQisi/view?usp=sharing)
+
+[Azure Fundamentals By Microsoft](https://drive.google.com/file/d/1J0ByS2T7RUMxx4VlfdxuHuDx6UAqSrFA/view?usp=sharing)
+
+[Python Data Analysis By LinkedIn](https://drive.google.com/file/d/1ztHPz45LApoW95NRMkeJ3o--JhC3rBoJ/view?usp=sharing)
+
+[Python Data Structures and Algorithms By LinkedIn](https://drive.google.com/file/d/1W8qDbcar-t9eH7LvMwage5kaSqs312as/view?usp=sharing)
 
  ## 🤝 Connect with Me : 
  <a href="https://www.linkedin.com/in/chalermdej-l/" target="blank"><img align="center" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/linkedin.png"  /></a>
