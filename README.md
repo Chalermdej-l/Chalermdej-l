@@ -25,7 +25,7 @@
 
 [Security, Compliance, and Identity Fundamentals By Microsoft](https://drive.google.com/file/d/157i3V-5jRZlvqzARS2YB7nflgt49oMoF/view?usp=sharing)
 
-[Azure Data Fundamentals By Microsoft](https://drive.google.com/file/d/1H-x1wL30D8pwUzrqaCu6X2SuEp8aQisi/view?usp=sharing)
+[Azure Data Fundamentals By Microsoft](https://drive.google.com/file/d/1ZO7_quTkeR36v_64v3F01Q65abmRs9mh/view?usp=sharing)
 
 [Azure Fundamentals By Microsoft](https://drive.google.com/file/d/1J0ByS2T7RUMxx4VlfdxuHuDx6UAqSrFA/view?usp=sharing)
 
