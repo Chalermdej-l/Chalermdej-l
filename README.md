@@ -19,9 +19,16 @@
  
  
  ## 🎫 Certification :
-[Data Engineer Zoomcamp By DataTalks Club](https://drive.google.com/file/d/1mDXsp89leCp-S2dqtvtvfruZPggFlPn7/view?usp=sharing)
+
+[Data Engineer Accoicate By Microsoft](https://drive.google.com/file/d/189F-eZZr0E3epHJ7QTup3WVelz8lklQZ/view?usp=sharing)
 
 [Data Analyst Accoicate By Microsoft](https://drive.google.com/file/d/17EXqy2GkYpFT-5ZcuxvRr01Lt2HX-c0F/view?usp=sharing)
+
+[Data Engineer Zoomcamp By DataTalks Club](https://drive.google.com/file/d/1mDXsp89leCp-S2dqtvtvfruZPggFlPn7/view?usp=sharing)
+
+[MLop Zoomcamp By DataTalks Club](https://drive.google.com/file/d/11UzSXJGMqmRQiQosy2Q785lYkpqPRWCR/view?usp=sharing)
+
+[Machine Learning Zoomcamp By DataTalks Club](https://drive.google.com/file/d/124L7YMODfAspdm-hu0dL-3WqBe5oxjhy/view?usp=sharing)
 
 [Security, Compliance, and Identity Fundamentals By Microsoft](https://drive.google.com/file/d/157i3V-5jRZlvqzARS2YB7nflgt49oMoF/view?usp=sharing)
 
@@ -34,7 +41,7 @@
 [Python Data Structures and Algorithms By LinkedIn](https://drive.google.com/file/d/1W8qDbcar-t9eH7LvMwage5kaSqs312as/view?usp=sharing)
 
  ## 🤝 Connect with Me : 
- <a href="https://www.linkedin.com/in/chalermdej-l/" target="blank"><img align="center" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/linkedin.png"  /></a>
+<a href="https://www.linkedin.com/in/chalermdej-l/" target="blank"><img align="center" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/linkedin.png"  /></a>
 <a href="https://join.skype.com/invite/y0TtNWVN0t3U" target="blank"><img align="center" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/skype.png" /></a> 
 <a href="https://slack.com/app_redirect?channel=U04CPEJHN68/" target="blank"><img align="center" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /></a> 
 <a href="https://chalermdej-l.github.io/Portfolio/" target="blank"><img align="center" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/misc/web.png" /></a> 
